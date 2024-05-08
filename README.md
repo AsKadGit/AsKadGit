@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AsKadGit
+- 👋 Hi, I’m Kadidjatou Assa
 - 👀 I’m interested in new chalenge
-- 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Developement 
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I speak five languages
 
 <!---
 AsKadGit/AsKadGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
